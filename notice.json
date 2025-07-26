@@ -2,5 +2,8 @@
   "announcements": [
     "TG频道:@zhunicom",
     "1.3版本已发布，请尽快在TG频道中下载更新，老版本到期后将不再赠送使用时长！"
-  ]
-}
+  ],
+  "latestVersion": "1.5",
+  "updateMessage": "1.5版本已发布，包含以下重要更新：\n\n• 修复了流量统计显示问题\n• 优化了应用性能\n• 增加了新的功能特性\n• 老版本到期后将不再赠送使用时长\n\n请尽快更新以获得最佳体验！",
+  "downloadUrl": "https://t.me/zhunicom"
+} 
