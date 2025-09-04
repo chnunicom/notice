@@ -1,9 +1,9 @@
 {
   "announcements": [
     "TG频道:@zhunicom",
-    "1.6版本已发布！"
+    "1.7版本已发布！"
   ],
-  "latestVersion": "1.6",
-  "updateMessage": "1.6版本已发布\n修复部分BUG\n新增通知栏重置功能！",
+  "latestVersion": "1.7",
+  "updateMessage": "1.7版本已发布\n修复新用户无法使用的BUG\n新增使用时长重置功能！",
   "downloadUrl": "https://t.me/zhunicom"
 } 
