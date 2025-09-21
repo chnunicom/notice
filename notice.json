@@ -1,11 +1,9 @@
 {
   "announcements": [
-    "TG频道:@zhunicom",
-    "如您在使用过程中遇到任何问题或发现 Bug，请通过 Telegram 频道反馈，或将相关信息发送至邮箱：hklog4j622@outlook.com",
-    "1.8版本即将发布，会修复目前已知的所有Bug"
+    "TG频道:@zhunicom"
   ],
   "cookienotice":"如果Cookie不通过，可加入TG频道交流讨论:@zhunicom",
-  "latestVersion": "1.7",
-  "updateMessage": "1.7版本已发布\n修复新用户无法使用的BUG\n新增使用时长重置功能！",
-  "downloadUrl": "https://t.me/zhunicom"
+  "latestVersion": "1.8",
+  "updateMessage": "1.8版本已发布\n适配了更多的流量套餐\n新增悬浮窗透明度调节功能\n增加流量明细功能\n点击立即更新，会自动跳转至123盘下载新版本！",
+  "downloadUrl": "https://www.123912.com/s/2iwbjv-iA68"
 } 
