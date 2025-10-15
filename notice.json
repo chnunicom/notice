@@ -1,10 +1,9 @@
 {
   "announcements": [
-    "TG频道:@zhunicom",
-    "2.1版本已发布，加入副卡监控，优化了流量明细和流量详情！"
+    "TG频道:@zhunicom"
   ],
   "cookienotice":"如果Cookie不通过，可以尝试卸载软件重新安装，如还不通过，可加入TG频道交流讨论:@zhunicom",
-  "latestVersion": "2.1",
-  "updateMessage": "2.1版本已发布\n加入副卡流量监控\n优化了流量明细和流量详情！\n点击立即更新，会自动跳转至123盘下载新版本！",
-  "downloadUrl": "https://www.123912.com/s/2iwbjv-lf68"
+  "latestVersion": "2.2",
+  "updateMessage": "2.2版本已发布\n适配更多套餐\n优化副卡流量显示！\n点击立即更新，会自动跳转至123盘下载新版本！",
+  "downloadUrl": "https://www.123912.com/s/2iwbjv-na68"
 } 
