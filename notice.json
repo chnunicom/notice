@@ -1,10 +1,9 @@
 {
   "announcements": [
-    "TG频道:@zhunicom",
-    "请立即更新使用最新版本，2.4之前版本将会关闭！"
+    "TG频道:@zhunicom"
   ],
   "cookienotice":"Cookie不会抓？可加入TG频道交流讨论:@zhunicom",
-  "latestVersion": "2.4",
-  "updateMessage": "2.4版本已发布\n增加达到跳点关闭流量功能\n修复悬浮窗BUG！\n点击立即更新，会自动跳转至123盘下载新版本！",
-  "downloadUrl": "https://www.123912.com/s/2iwbjv-qM68"
+  "latestVersion": "2.5",
+  "updateMessage": "2.5版本已发布\n优化达到跳点关闭流量功能\n兼容更多流量套餐！\n点击立即更新，会自动跳转至123盘下载新版本！",
+  "downloadUrl": "https://www.123912.com/s/2iwbjv-xg68"
 } 
